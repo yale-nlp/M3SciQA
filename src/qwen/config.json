@@ -1,0 +1,23 @@
+{    
+    "SEMANTIC_SCHOLAR_API_KEY": "",
+    "DASHSCOPE_API_KEY": "",
+    "OPENAI_API_KEY": "",
+    "REPO_ROOT_PATH": "",
+    "IMAGE_ROOT_PATH": "",
+    "QWEN_RELATIVE_PATH": "",
+    "MODEL_OUTPUT_DIRECTORY": "",
+    "GPT_INPUT_DIRECTORIES": [
+        ""
+    ],
+    "GPT_OUTPUT_DIRECTORY": "",
+    "FULL_LOCALITY_JSON": "",
+    "PREV_LOCALITY_JSON": "",
+    "NEW_LOCALITY_JSON": "",
+    "INTERMEDIATE_JSONS": [
+        ""
+    ],
+    "FINAL_LOCALITY_JSON": "",
+    "LOCALITY_DATASET_JSONL": "",
+    "VALIDATION_DATASET_JSONL": "",
+    "TEST_DATASET_JSONL": ""
+}

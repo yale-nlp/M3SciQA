@@ -1,0 +1,2694 @@
+{
+    "What is the large language model that demonstrates lower HVI score than OPT but higher HVI score than Alpaca?": [
+        "2303.08774",
+        "2205.01068",
+        "2302.13971",
+        "2307.03987",
+        "2305.18248",
+        "2305.14908",
+        "2211.05100",
+        "2206.04624"
+    ],
+    "What is the large language model that has 1.7T model size?": [
+        "2303.08774",
+        "2307.03987",
+        "2305.18248",
+        "2305.14908",
+        "2305.14224",
+        "2305.01210",
+        "2303.02861",
+        "2302.13971",
+        "2206.04624"
+    ],
+    "What is the large language model that demonstrates 47 HVI scores?": [
+        "2303.08774",
+        "2307.03987",
+        "2305.18248",
+        "2305.14908",
+        "2302.13971"
+    ],
+    "What is the large language model that demonstrates the second lowest HVI score shown in purple bar?": [
+        "2307.03987",
+        "2305.18248",
+        "2305.14908",
+        "2305.01210",
+        "2212.08597",
+        "2212.02712",
+        "2211.05100",
+        "2206.04624",
+        "2205.14135"
+    ],
+    "What is the model demonstrates the lowest diversity score in p1, p2, p3, and p4?": [
+        "2306.04723",
+        "2305.01210",
+        "2304.04736",
+        "2303.13408",
+        "2303.10420",
+        "2303.11156",
+        "2303.03697",
+        "2303.00293",
+        "2302.13971",
+        "2301.11305"
+    ],
+    "What is the model demonstrates in the gree dashed line?": [
+        "2306.04723",
+        "2303.13408",
+        "2304.04736",
+        "2303.10420",
+        "2303.11156",
+        "2211.05100",
+        "2210.11416",
+        "2301.11305",
+        "2212.10560",
+        "1910.01108"
+    ],
+    "What is the model demonstrates diversity score of 2.58 in p2?": [
+        "2306.04723",
+        "2304.04736",
+        "2303.13408",
+        "2305.01210",
+        "2304.10592",
+        "2303.10420",
+        "2303.11156",
+        "2303.03697",
+        "2303.00293"
+    ],
+    "What is the method that shows 34.7 score in Acc-7 metric on MOSI?": [
+        "2305.02814",
+        "2203.03812",
+        "2109.00412",
+        "2102.04830",
+        "2005.03545",
+        "1906.00295"
+    ],
+    "What is the method on the first row of the table?": [
+        "1707.07250",
+        "1906.00295",
+        "2203.03812",
+        "2005.03545",
+        "1806.00064"
+    ],
+    "What is the method demonstrates the lowest Acc-7 score on MOSI?": [
+        "2203.03812",
+        "2109.00412",
+        "2102.04830",
+        "1906.00295"
+    ],
+    "What is the method demonstrates the highest Acc-5 score on MOSI": [
+        "2305.02814",
+        "2203.03812",
+        "2109.00412",
+        "2102.04830"
+    ],
+    "What optimization method demonstrates the second highest reward accuracy?": [
+        "2305.18290",
+        "2305.10425",
+        "2304.06767",
+        "2304.05302"
+    ],
+    "What optimization method show 0.191 R2 score?": [
+        "2305.18290",
+        "2305.10425",
+        "2305.08844",
+        "2304.05302",
+        "2306.05685",
+        "2304.06767",
+        "2305.08844",
+        "2303.08774",
+        "2305.12289",
+        "2204.10290"
+    ],
+    "What optimization method shows the lowest BLEU score across all models?": [
+        "1706.03762",
+        "1807.03819",
+        "2210.05144",
+        "2207.10551",
+        "2008.07772",
+        "2101.03961",
+        "2011.04006",
+        "1910.10073",
+        "1806.00187",
+        "1901.10430"
+    ],
+    "What optimization method shows BLEU score of 27.3?": [
+        "2210.05144",
+        "2008.07772",
+        "2011.04006",
+        "2212.08066",
+        "2209.15003",
+        "2207.10551",
+        "2207.07061",
+        "2207.02098",
+        "2204.06618",
+        "2112.00578"
+    ],
+    "What is the model in the fifth row of the table?": [
+        "1807.03819",
+        "1706.03762",
+        "1910.02612",
+        "1806.00187",
+        "2011.04006",
+        "2212.08066",
+        "2210.05144",
+        "2209.15003",
+        "2207.10551",
+        "2207.07061"
+    ],
+    "What is the model dmonstrates the lowest MCD 1 score?": [
+        "1706.03762",
+        "1807.03819",
+        "2011.04006",
+        "2212.08066",
+        "2210.05144",
+        "2207.10551",
+        "2204.06618",
+        "2112.00578",
+        "2108.12284",
+        "2106.16213"
+    ],
+    "What is the model dmonstrates the highest MCD 1 score?": [
+        "2305.18654",
+        "2212.08066",
+        "2210.10749",
+        "2209.15003",
+        "2207.10551",
+        "2207.07061",
+        "2207.02098",
+        "2204.06618",
+        "2112.00578"
+    ],
+    "What is the model with 6-layer encoder and 6-layer decoder architecture?": [
+        "1810.04805",
+        "2006.16668"
+    ],
+    "What is the dataset used for Dialogue response task?": [
+        "2212.10465",
+        "1911.00536",
+        "1910.13461"
+    ],
+    "What is the model perform the best in the BBBP dataset?": [
+        "2305.10688",
+        "2209.05481",
+        "2211.09085",
+        "2301.12040",
+        "2306.06615",
+        "2302.04611",
+        "2210.10341",
+        "2204.11817"
+    ],
+    "What is the model perform the second best in the ClinTox dataset?": [
+        "2305.10688",
+        "2209.05481",
+        "2204.11817",
+        "2210.10341",
+        "2306.06615"
+    ],
+    "What is the model shown on the penult line?": [
+        "2305.10688",
+        "2301.12040",
+        "2211.09085",
+        "2210.10341",
+        "2209.05481",
+        "2204.11817",
+        "2302.04611",
+        "2306.06615"
+    ],
+    "What is the model shown on the first line?": [
+        "1810.04805",
+        "1901.08746",
+        "1508.01991",
+        "cs/0209010",
+        "2105.06804",
+        "2105.08901",
+        "2005.07150"
+    ],
+    "What is the model demonstrates the highest score on BC5CDR (Big Dict) and BC5CDR (Small Dict) Dataset?": [
+        "1901.08746",
+        "1810.04805",
+        "1809.03599",
+        "1508.01991",
+        "cs/0209010",
+        "1601.00770",
+        "1603.01360"
+    ],
+    "Which Seq2Seq model shows the higest Test Accuracy?": [
+        "2306.00784",
+        "2305.04556",
+        "2304.09102",
+        "2212.00837",
+        "2211.16022",
+        "2210.10105",
+        "2209.10310",
+        "2107.01431",
+        "2106.00990"
+    ],
+    "Which Seq2Seq model shows 79.6 Test Accuracy?": [
+        "2210.15373",
+        "2212.00837",
+        "2211.16022",
+        "2306.00784",
+        "2306.09064",
+        "2304.09102",
+        "2305.04556",
+        "2306.01707",
+        "2209.01352",
+        "2209.10310"
+    ],
+    "Which model on the last line of the Seq2Seq/Tree block?": [
+        "2306.00784",
+        "2305.04556",
+        "2212.00837",
+        "2210.15373",
+        "2210.12432",
+        "2210.11694",
+        "2210.10105",
+        "2209.01352",
+        "2203.10316",
+        "2201.11903"
+    ],
+    "Which LLM model shows the highest test accuracy?": [
+        "2203.11171",
+        "2203.10316",
+        "1810.04805",
+        "1705.04146",
+        "2303.17580"
+    ],
+    "Which LLM model shows test accuracy by 50.7?": [
+        "2203.11171",
+        "2203.10316",
+        "1705.04146",
+        "1810.04805",
+        "2205.11916"
+    ],
+    "Which Seq2Exp model shows the highest test accuracy?": [
+        "2209.01352",
+        "2203.11171",
+        "2205.11916",
+        "2201.11903",
+        "2203.10316",
+        "2210.11694",
+        "2211.16022",
+        "2305.04556",
+        "2212.00837",
+        "2306.00784"
+    ],
+    "Which Seq2Exp model is with Club citation mark?": [
+        "2110.14168",
+        "2212.00837",
+        "2305.04556",
+        "2211.16022",
+        "2210.10105",
+        "2209.10310",
+        "2209.01352",
+        "2210.11694",
+        "2203.10316"
+    ],
+    "What is the model has lower accuracy than VIBE but higher accuracy than UDALM?": [
+        "1612.00410",
+        "2104.08253",
+        "2111.07408",
+        "2004.10964",
+        "2004.04906"
+    ],
+    "Which model gets mean classification accuracy 0.8173 on Stance dataset?": [
+        "2104.08253",
+        "2203.00255",
+        "2111.07408",
+        "2104.08116",
+        "2104.07078",
+        "2004.08994"
+    ],
+    "Which model gets mean classification accuracy 0.6712 on Hate dataset?": [
+        "2012.10289",
+        "2111.07408",
+        "2004.10964",
+        "1612.00410",
+        "2104.07078",
+        "2006.15207"
+    ],
+    "Which model is shown in green line?": [
+        "1612.00410"
+    ],
+    "Which model shows consistently low accuracy than VIBE model?": [
+        "1612.00410",
+        "2004.08994",
+        "2004.06100",
+        "2004.10964"
+    ],
+    "Which model has accuracy consistently lower than 0.82 across all volumne of adaptive data?": [
+        "2203.07993",
+        "2104.08253",
+        "2104.07078",
+        "2111.07408",
+        "2108.13624",
+        "2004.08994",
+        "2004.06100",
+        "2004.04906",
+        "2001.00677"
+    ],
+    "Which model does not show a decrease in accuracy from the figure?": [
+        "1612.00410",
+        "2004.10964",
+        "2108.13624",
+        "2004.06100",
+        "2004.08994"
+    ],
+    "Which model shown in the figure is represented by the pink line?": [
+        "2307.09288"
+    ],
+    "Which model shown in the figure has a similar performance to GPT-3.5-Turbo?": [
+        "2305.06161",
+        "2307.09288",
+        "2203.02155",
+        "2210.12786",
+        "2107.06516",
+        "2212.10560",
+        "2107.03374",
+        "2305.03111",
+        "2301.01067",
+        "2305.04835"
+    ],
+    "Which model shown the best overall performance?": [
+        "2307.09288",
+        "2305.06161",
+        "2305.03111",
+        "2301.01067",
+        "2212.10560",
+        "2210.12786",
+        "2203.02155",
+        "2107.06516",
+        "2107.03374",
+        "2106.11455"
+    ],
+    "Which model shown in the figure represented by grey line with star marker?": [
+        "2305.06161",
+        "2307.09288",
+        "2210.12786",
+        "2305.04835",
+        "2203.02155",
+        "2305.03111",
+        "2301.01067",
+        "2212.10560",
+        "2107.06516",
+        "2107.03374"
+    ],
+    "Which model shown in the figure consistently better than MPT-7B-Instruct but consistently worse than LLaMA-30B?": [
+        "2307.09288",
+        "2305.06161",
+        "2212.10560",
+        "2210.12786",
+        "2203.02155",
+        "2107.06516",
+        "2107.03374",
+        "2106.11455",
+        "2106.04252",
+        "2106.03993"
+    ],
+    "Which model shows the second best execuation accuracy in few-shot prompting?": [
+        "2005.14165",
+        "2305.04835",
+        "2212.10560",
+        "2210.12786",
+        "2209.12153",
+        "2305.06161",
+        "2203.02155",
+        "2107.06516",
+        "2307.09288"
+    ],
+    "Which model shows the second best execuation accuracy in direct prompting?": [
+        "2305.06161",
+        "2305.03111",
+        "2210.12786",
+        "2212.10560",
+        "2203.02155",
+        "2107.06516",
+        "2107.03374",
+        "2307.09288",
+        "2301.01067",
+        "2209.12153"
+    ],
+    "Which model shows the lowest execuation accuracy in few-shot prompting?": [
+        "2305.04835",
+        "2212.10560",
+        "2005.14165",
+        "2305.03111",
+        "2210.12786",
+        "2203.02155",
+        "2107.06516",
+        "2209.12153",
+        "2305.06161",
+        "2307.09288"
+    ],
+    "Which model shows the lowest execuation accuracy in direct prompting?": [
+        "2305.03111",
+        "2210.12786",
+        "2305.04835",
+        "2305.06161",
+        "2301.01067",
+        "2106.11455",
+        "2302.09288",
+        "2212.10560",
+        "2203.02155",
+        "2307.09288"
+    ],
+    "Which model has the highest accuracy in few-shot prompting?": [
+        "2005.14165",
+        "2212.10560",
+        "2305.04835",
+        "2203.02155",
+        "2305.06161",
+        "2307.09288",
+        "2107.03374",
+        "2106.13884",
+        "2209.12153"
+    ],
+    "Which model is demonstrated in the brown color?": [
+        "2005.14165",
+        "2203.02155",
+        "2307.09288",
+        "2305.06161",
+        "2305.04835",
+        "2305.03111",
+        "2301.01067",
+        "2212.10560",
+        "2210.12786",
+        "2209.12153"
+    ],
+    "Which model is demonstrated in the lavender color?": [
+        "2107.03374",
+        "2005.14165",
+        "2203.02155",
+        "2307.09288",
+        "2212.10560",
+        "2305.06161",
+        "2305.03111",
+        "2301.01067",
+        "2210.12786",
+        "2209.12153"
+    ],
+    "Which model demonstrates score of 21.073 in 10-shot prompting": [
+        "2203.10545",
+        "2109.13023",
+        "2109.07589",
+        "2105.07464",
+        "2203.08985",
+        "2106.08977",
+        "1811.05468",
+        "1810.04805",
+        "2101.11038",
+        "2011.11851"
+    ],
+    "Which supervised method demonstrates highest scores in 100-shot prompting?": [
+        "2203.10545",
+        "2109.13023",
+        "2109.07589",
+        "2105.07464",
+        "2101.11038",
+        "1811.05468",
+        "1810.04805",
+        "1907.11692"
+    ],
+    "Which supervised method demonstrates lowest scores in 10-shot prompting?": [
+        "2109.07589",
+        "2109.13023",
+        "1811.05468",
+        "2105.07464",
+        "2106.08977",
+        "2203.08985",
+        "2203.10545",
+        "2201.02080"
+    ],
+    "Which method demonstrates highest scores in 10-shot prompting?": [
+        "2109.07589",
+        "2109.13023",
+        "2105.07464",
+        "2203.08985"
+    ],
+    "Which method shown in the penult row of the table?": [
+        "2109.13023",
+        "2109.07589",
+        "2105.07464",
+        "2203.08985",
+        "2203.10545",
+        "2201.02080",
+        "2106.08977",
+        "1811.05468"
+    ],
+    "Which method shows the lowest over performance?": [
+        "2108.04927",
+        "2105.06453",
+        "2103.14610",
+        "2106.03427",
+        "2106.00596",
+        "1711.00482",
+        "1807.06757",
+        "1711.07280",
+        "2109.08238",
+        "2012.03208"
+    ],
+    "Which method shows score of 3.1 in Seen, Val, SR dataset?": [
+        "1807.06757",
+        "1806.02724",
+        "1711.07280",
+        "1711.00482",
+        "2108.04927",
+        "2107.05612",
+        "2106.03427",
+        "2105.06453",
+        "2103.14610",
+        "2012.03208"
+    ],
+    "Which method is in the first row of the table?": [
+        "1809.08887",
+        "1911.04942",
+        "2304.11015",
+        "2303.13547",
+        "2109.05157",
+        "2109.05093",
+        "2106.01065",
+        "2301.07507",
+        "2106.01093"
+    ],
+    "Which method shows the second lowest over performance for Seen condition?": [
+        "1807.06757",
+        "1711.07280",
+        "1806.02724",
+        "1711.00482",
+        "1611.01144",
+        "1706.03762",
+        "1810.04805",
+        "1504.08083",
+        "1511.06732",
+        "1809.00786"
+    ],
+    "Which method shows score of 25.9 in Seen, Val, SR dataset?": [
+        "2107.05612",
+        "2105.06453",
+        "2110.13309",
+        "2112.04138",
+        "2203.13838",
+        "2110.07342",
+        "2110.00534",
+        "2110.01517",
+        "2106.03427",
+        "2106.00596"
+    ],
+    "Which method shows the best score in Seen, Val, SR dataset?": [
+        "2107.05612",
+        "2012.03208",
+        "2106.03427",
+        "2105.06453",
+        "2103.14610"
+    ],
+    "Which method shows the best score in Seen, Val, GC dataset?": [
+        "2108.04927",
+        "2105.06453",
+        "2103.14610",
+        "2106.03427",
+        "2106.00596",
+        "1910.01210",
+        "1910.00775",
+        "1807.06757",
+        "1511.06732",
+        "1806.02724"
+    ],
+    "Which method shows the score of 31.8 in Seen, Test, SR dataset?": [
+        "2105.06453",
+        "1711.00482",
+        "1807.06757",
+        "2012.03208",
+        "1910.01210",
+        "1511.06732",
+        "1711.07280",
+        "1910.00775",
+        "1712.05474",
+        "1806.02724"
+    ],
+    "Which method shows the score better than MOCA but worse than LACMA in Seen, Val, SR dataset?": [
+        "2108.04927",
+        "2107.05612",
+        "2106.03427",
+        "2105.06453",
+        "2103.14610",
+        "2012.03208",
+        "1810.04805",
+        "1706.03762"
+    ],
+    "Which method shows the score of 42.0 in Seen, Val, GC dataset?": [
+        "2109.08238",
+        "2108.04927",
+        "2012.03208",
+        "2110.01517",
+        "2110.00534",
+        "1912.01734",
+        "1904.01201",
+        "1910.01210",
+        "1807.06757"
+    ],
+    "Which method shows the score of 14.9 in Unseen, Test, GC dataset?": [
+        "2108.04927",
+        "2105.06453",
+        "1807.06757",
+        "1806.02724",
+        "1711.07280",
+        "2010.07954",
+        "2110.00534",
+        "2110.01517",
+        "2106.00596"
+    ],
+    "What is the dataset being tested that KALMV gets 70.83 score for XL model?": [
+        "2306.04136",
+        "2212.10509",
+        "2301.12652",
+        "2302.04023",
+        "2210.01613",
+        "2204.10555",
+        "2302.04023",
+        "2205.00049"
+    ],
+    "What is the dataset being tested that KALMV gets 66.48 score for Large model?": [
+        "2302.04023",
+        "2210.01613",
+        "2212.10509",
+        "2301.12652",
+        "2211.05110",
+        "2306.04136",
+        "2303.17651",
+        "2302.13971",
+        "2205.00049"
+    ],
+    "Which dataset lies on the second left in the figure?": [
+        "2210.01613",
+        "1809.09600",
+        "2005.11401",
+        "2002.08909",
+        "2002.08910",
+        "1910.10683"
+    ],
+    "What is the method shown in the figure demonstrated by the red solid line?": [
+        "2210.07197",
+        "2112.08542",
+        "2111.09525",
+        "2205.06009",
+        "2204.07447",
+        "2210.11416",
+        "2301.13298",
+        "2301.10483",
+        "2105.00071",
+        "2104.13346"
+    ],
+    "What is the method shown in the figure demonstrates the highest fluctuation?": [
+        "1904.09675",
+        "1706.04599",
+        "2210.07197",
+        "2112.08542",
+        "2111.09525",
+        "2205.06009",
+        "2204.07447"
+    ],
+    "Which model demonstrates the highest performance in En-De task in Test2016 dataset in Previous Image-must Systems?": [
+        "2210.04468",
+        "1605.00459",
+        "1702.01287",
+        "2009.02016",
+        "1705.04350",
+        "2202.13645",
+        "2203.10299",
+        "2305.14635"
+    ],
+    "Which model demonstrates the highest performance in En-Fr task in MSCOCO dataset?": [
+        "2305.08706",
+        "2210.15461",
+        "2210.08478",
+        "2210.06716",
+        "2210.04468",
+        "2206.00100",
+        "2205.11487",
+        "2203.10426",
+        "2203.10299",
+        "2203.09173"
+    ],
+    "Which model demonstrates the overall average score of 45.68 in previous image-free systems?": [
+        "2210.04468",
+        "2009.02016",
+        "2009.09654",
+        "1702.01287",
+        "1508.07909"
+    ],
+    "What is the dataset has the fewest number of languages but the most number of SM tasks?": [
+        "2303.12528",
+        "2010.11934",
+        "1803.06745",
+        "1908.11049",
+        "2109.05427",
+        "2201.08702",
+        "2203.02155"
+    ],
+    "What is the dataset has 1 language but 13 SM tasks?": [
+        "2303.12528",
+        "2010.00310",
+        "2109.05427",
+        "2010.11934",
+        "2201.08702",
+        "2203.02155",
+        "2005.05635",
+        "2211.05100"
+    ],
+    "What is the dataset located on the top left of the figure?": [
+        "2303.12528",
+        "2302.13971",
+        "2211.05100",
+        "2210.11416"
+    ],
+    "What is the dataset (Twitter) has the most number of languages compared to all Twitter datasets?": [
+        "2305.15011",
+        "2304.14402",
+        "2304.06845",
+        "2304.05613",
+        "2303.12528",
+        "2211.05100",
+        "2210.11416",
+        "2205.15960",
+        "2204.13915"
+    ],
+    "What dataset has 1 SM task and 14 languages?": [
+        "2304.06845",
+        "2302.08956",
+        "2303.12528",
+        "2010.00310",
+        "2004.01401"
+    ],
+    "What dataset is with the largest blue circle label?": [
+        "2304.06845",
+        "2302.08956",
+        "2303.12528",
+        "2010.00310",
+        "2004.01401"
+    ],
+    "What is the dataset located on the bottom left of the figure?": [
+        "2005.05635",
+        "2303.12528",
+        "2010.00310",
+        "2204.04611",
+        "2211.05100",
+        "2210.09582",
+        "2304.06845",
+        "2305.15005",
+        "2203.02155"
+    ],
+    "What is the dataset represented by the smallest blue label?": [
+        "2005.05635",
+        "2010.00310",
+        "1902.09666",
+        "2303.12528",
+        "2204.04611",
+        "2204.07660",
+        "2304.06845"
+    ],
+    "What is the dataset with 1 SM task and 4 languages?": [
+        "2303.12528"
+    ],
+    "What is the dataset represented on the leftmost of the figure?": [
+        "2305.14333",
+        "2304.09102",
+        "2110.14168",
+        "2103.07191",
+        "2211.12588",
+        "2210.00720",
+        "2206.14858",
+        "2203.11171",
+        "2103.03874",
+        "2005.14165"
+    ],
+    "What dataset demonstrates the highest accuracy with method 1?": [
+        "2305.14333",
+        "2304.09102",
+        "2210.00720",
+        "2203.11171",
+        "2110.14168",
+        "2103.07191",
+        "2103.03874",
+        "2005.14165",
+        "2211.12588",
+        "2206.14858"
+    ],
+    "What dataset demonstrates the highest accuracy with method 2?": [
+        "2305.14333",
+        "2304.09102",
+        "2211.12588",
+        "2210.00720",
+        "2203.11171",
+        "2110.14168",
+        "2103.07191",
+        "2103.03874",
+        "2206.14858",
+        "2205.11916"
+    ],
+    "What model is demonstrated by the yellow bar?": [
+        "2302.13971",
+        "2205.12253",
+        "2108.12284",
+        "2107.06516",
+        "1706.03762",
+        "1910.10683",
+        "2106.09685"
+    ],
+    "What model demonstrates the lowest accuracy in SLGO-all dataset": [
+        "2205.12253",
+        "2108.12284",
+        "2107.06516",
+        "2010.05465",
+        "2303.13716",
+        "2212.10769",
+        "2212.04523",
+        "2210.13050",
+        "2205.14521"
+    ],
+    "What model demonstrates the second lowest accuracy in COGS-all dataset": [
+        "2303.13716",
+        "2212.10769",
+        "2210.13050",
+        "2205.12253",
+        "2108.12284",
+        "2107.06516"
+    ],
+    "What model shows 0 accuracy in COGS-structural dataset": [
+        "2010.05465",
+        "2303.13716",
+        "2212.10769",
+        "2210.13050",
+        "2205.12253",
+        "2108.12284",
+        "2107.06516"
+    ],
+    "What model is demonstrated by the blue bar?": [
+        "2010.05465",
+        "2205.12253",
+        "2108.12284",
+        "2107.06516",
+        "2104.07478",
+        "1905.08205",
+        "1706.03762",
+        "2212.04523",
+        "2210.13050"
+    ],
+    "What model demonstrates the highest accuracy in COGS-all dataset?": [
+        "2108.12284",
+        "2010.05465",
+        "2205.12253",
+        "2303.13716",
+        "2212.10769",
+        "2210.13050",
+        "2107.06516"
+    ],
+    "What is the base model tested in the table?": [
+        "2302.13971",
+        "2211.07441",
+        "2202.03052",
+        "2102.02779",
+        "2109.10686",
+        "1911.03829",
+        "1810.04805"
+    ],
+    "What is the model being fine-tuned shown in the table?": [
+        "2305.14314",
+        "1810.04805",
+        "2302.13971",
+        "2005.14165",
+        "2202.03052",
+        "2106.13219",
+        "1911.03829",
+        "2109.10686",
+        "2102.02779",
+        "2310.10021"
+    ],
+    "What is the model shown in the table with overall score less than 3.80?": [
+        "2211.07441",
+        "2302.13971",
+        "2005.14165",
+        "1810.04805",
+        "2305.14314",
+        "2202.03052",
+        "2102.02779",
+        "2106.13219",
+        "1904.09675"
+    ],
+    "What is the model shown in the first row of the table?": [
+        "2105.14913",
+        "2210.12802",
+        "2105.13072",
+        "1907.03468"
+    ],
+    "What method has average score of 82.8 with zero-shot prompting?": [
+        "2205.11916",
+        "2305.11206",
+        "2305.03047",
+        "2210.09261",
+        "1905.12588",
+        "1903.08671",
+        "1706.03741"
+    ],
+    "What method is shown right above the dashed line in few-shot prompting?": [
+        "2305.11206",
+        "2308.10792",
+        "2305.03047",
+        "2306.07906",
+        "2303.17651",
+        "2303.11366",
+        "2303.01421",
+        "2212.10560",
+        "2205.05638",
+        "2203.02155"
+    ],
+    "What method demonstrates the second highest score in TweetEval Irony dataset in both zero-shot and few-shot prompting?": [],
+    "What is the method represented in the blue line from the figure?": [
+        "2302.01849",
+        "2304.00215",
+        "2203.02424",
+        "2203.02167",
+        "2202.05679",
+        "2106.12144",
+        "2106.06935",
+        "2105.07615",
+        "2010.01179"
+    ],
+    "What method consistently shows higher MRR than NodePiece?": [
+        "2302.01849",
+        "2203.02167",
+        "2304.00215"
+    ],
+    "What method shows a huge increase as entity code entropy increases in FB15k-237 dataset?": [
+        "2106.12144",
+        "2302.01849",
+        "2203.02424",
+        "2202.05679",
+        "2203.02167",
+        "2002.00388",
+        "1911.09419",
+        "1911.06962"
+    ],
+    "What is the method represented in the green line from the figure?": [
+        "2302.01849",
+        "2106.12144",
+        "2203.02424",
+        "2203.02167",
+        "2202.05679",
+        "2304.00215",
+        "2106.06935",
+        "1911.06962"
+    ],
+    "What method shows the lowest J_k score in WN18RR dataset?": [
+        "2302.01849",
+        "2106.12144",
+        "2203.02424",
+        "2304.00215",
+        "2202.05679",
+        "2106.06935",
+        "2105.07615",
+        "2010.01179"
+    ],
+    "What method shows the lower J_k score than Random Entity Quantization but higher J_k score than NodePiece for k in the range of [400, 1000] in FB15k-237 dataset?": [
+        "2302.01849",
+        "2106.12144",
+        "1707.01476"
+    ],
+    "What model is in the first row of the table?": [
+        "2106.06132",
+        "2109.03423",
+        "2203.14187",
+        "2203.13947",
+        "2107.00152",
+        "2105.11698",
+        "2006.03654"
+    ],
+    "What model shows the highest Self-BLEU score on TellMeWhy dataset?": [
+        "2106.06132",
+        "2202.06417",
+        "1908.04319",
+        "2105.11698",
+        "1909.06356",
+        "1905.03197",
+        "1904.09751"
+    ],
+    "What model shows the lowest BERTScore F1 score on TellMeWhy dataset?": [
+        "1904.09675",
+        "2106.06132",
+        "1810.04805",
+        "2001.04063",
+        "1910.13461",
+        "2006.03654"
+    ],
+    "What model gets 0.4126 in BLEURT score?": [
+        "2004.04696",
+        "2106.06132",
+        "1909.06356",
+        "1705.00106",
+        "2109.03423",
+        "2107.00152",
+        "2105.11698"
+    ],
+    "What is the quant method show 76.3 score on Deit-S?": [
+        "2111.12293",
+        "2303.14341",
+        "2303.12557",
+        "2106.14156",
+        "2102.05426",
+        "2006.16669",
+        "2004.10568",
+        "2001.00281",
+        "1906.04721"
+    ],
+    "What is the quant method show 80.3 score on Deit-B?": [
+        "2106.14156",
+        "2303.14341",
+        "2303.12557",
+        "2111.12293"
+    ],
+    "What is the quant method shows lower score than APQ-ViT but higher than 76.0 on Deit-S?": [
+        "2303.14341",
+        "2303.12557",
+        "2203.05740",
+        "2102.05426",
+        "2106.14156",
+        "2111.12293",
+        "2109.12948",
+        "2004.10568",
+        "2006.16669",
+        "2005.14165"
+    ],
+    "What is the LLM model that demonstrates the lowest MSE score?": [
+        "2303.08774",
+        "2212.10560",
+        "2305.06474",
+        "2301.00395"
+    ],
+    "What is the LLM model that demonstrates the r score equal to 0.813?": [
+        "2303.08774",
+        "2305.07759",
+        "2305.06474",
+        "2212.10560",
+        "2301.00395",
+        "2112.14168",
+        "2112.01640",
+        "2110.05719",
+        "2109.03858"
+    ],
+    "What is the model that demonstrates the highest score on MNLI dataset?": [
+        "1810.04805",
+        "1804.07461",
+        "1910.10683",
+        "1908.10084",
+        "2002.08910",
+        "1606.05250"
+    ],
+    "What is the model that demonstrates the highest score on SST-2 dataset?": [
+        "1810.04805",
+        "1910.10683",
+        "1804.07461",
+        "1908.10084",
+        "2204.05211",
+        "2203.02378",
+        "2210.03347",
+        "2106.03331"
+    ],
+    "What is the model on the first row of the table?": [
+        "1810.04805",
+        "2204.05211",
+        "2210.03347",
+        "2103.00020",
+        "2305.10928",
+        "2305.12376",
+        "2106.11539"
+    ],
+    "Under this method, which benchmark demonstrates the highest execution accuracy?": [
+        "2305.03111",
+        "2109.05157",
+        "1809.08887",
+        "2301.07507",
+        "2303.13547",
+        "2304.11015",
+        "2106.01065",
+        "2106.01093",
+        "2012.12627"
+    ],
+    "Which method show a sentence-level precision equal to 60.32?": [
+        "2004.05150",
+        "1910.02517",
+        "1802.05365",
+        "1706.03762"
+    ],
+    "Which method show a token-level F1 score equal to 37.03?": [
+        "2004.05150",
+        "2009.02696",
+        "1910.02517",
+        "2301.09992",
+        "2108.12802",
+        "2109.08013",
+        "2107.11934",
+        "2012.02015",
+        "2010.10652",
+        "2010.05338"
+    ],
+    "Which is the method show a 64.95 F1 score on PDTB-Top?": [
+        "2210.07032",
+        "2305.03973",
+        "2211.13873",
+        "2301.02724",
+        "2112.11740"
+    ],
+    "Which is the method has a higher F1 score than LDSGM but lower F1 score than 65.76": [
+        "2301.02724",
+        "2211.13873",
+        "2112.11740",
+        "2010.06294",
+        "2106.08629"
+    ],
+    "Which is the method demonstrated in the seventh row in the table?": [
+        "2210.07032",
+        "2301.02724",
+        "2305.03973",
+        "2211.13873",
+        "2304.14827"
+    ],
+    "What is the method demonstrates 65.76 F1 score on PDTB-Top?": [
+        "2211.13873",
+        "2210.07032",
+        "2305.03973",
+        "2301.02724",
+        "2112.11740"
+    ],
+    "What is the method with an F1 score higher than PCP but lower than DiscoPrompt?": [
+        "2210.07032",
+        "2305.03973",
+        "2211.13873",
+        "2301.02724",
+        "2112.11740",
+        "2111.01998",
+        "2107.13586",
+        "2106.08629",
+        "2010.06294"
+    ],
+    "What is the method in the table right below the PCP method?": [
+        "2211.13873",
+        "2210.07032",
+        "2305.03973",
+        "2301.02724",
+        "2112.11740",
+        "2304.14827",
+        "2010.06294",
+        "2106.08629",
+        "2107.13586"
+    ],
+    "What is the method in the table that demonstrates the highest ROUGE 2 score?": [
+        "2109.10616",
+        "2010.10323",
+        "2010.13002",
+        "1911.12237",
+        "1910.13461",
+        "1912.08777",
+        "2012.14660",
+        "2012.07311"
+    ],
+    "What is the method in the table that demonstrates a ROUGE L score equal to 41.39?": [],
+    "What is the method in the table that demonstrates a ROUGE 1 score equal to 44.52?": [
+        "2010.10323",
+        "2109.10616",
+        "1911.12237",
+        "2010.13002",
+        "1910.13461",
+        "1912.08777"
+    ],
+    "Which method demonstrates the highest Accuary@0.5 on RefCOCOg task?": [
+        "2111.12085"
+    ],
+    "Which method shows 71.0 accuracy score on VQA-v2 task?": [
+        "2202.03052",
+        "2111.12085"
+    ],
+    "What is the method shown in the table below VL-BART method and above OFA-base method": [
+        "2111.12085"
+    ],
+    "Which method is using grey-ish color for showing results in the table?": [
+        "2111.12085",
+        "2202.03052"
+    ],
+    "What method shows 78.1 Accuracy on VQA-v2 task?": [
+        "2202.03052"
+    ],
+    "What method shows the highest Accuracy on VQA-v2 task?": [
+        "2202.03052",
+        "2111.12085"
+    ],
+    "What method does not provide BLEU-1 score?": [
+        "2112.05230",
+        "2111.09734",
+        "2211.09460",
+        "2207.10897",
+        "2207.09666",
+        "2206.06930"
+    ],
+    "What method has a METEOR score lower than (Ours) but higher than X-Transformer?": [
+        "2111.09734",
+        "2003.14080"
+    ],
+    "What method is shown in the penult row?": [
+        "2112.05230",
+        "2207.09666",
+        "2211.09460",
+        "2206.06930",
+        "2205.04363",
+        "2204.13258"
+    ],
+    "What is the name of the score with description 'Fine-grained information-theoretic quantity whose expectation value is the amount of usable information (in bits by the model.'?": [
+        "2110.08420",
+        "2112.08798",
+        "2008.11600",
+        "2206.14486",
+        "2107.07075",
+        "2106.09647",
+        "2008.03703",
+        "2209.10015",
+        "2211.05610",
+        "2110.05922"
+    ],
+    "What is the name of the score with description 'Influence of any example z towards another example z' by tracking their gradient dot products. We generate the self-influence scores where z = z''?": [
+        "2002.08484",
+        "2008.11600",
+        "2008.03703",
+        "1703.04730"
+    ],
+    "What is the method does not show result in CSQA2.0 dev and StrategyQA test task?": [
+        "2203.11171",
+        "2101.02235",
+        "2205.09712",
+        "2212.13894",
+        "2201.05320",
+        "2106.05346",
+        "1809.09600",
+        "2203.02155",
+        "2110.08387"
+    ],
+    "What is the method demonstrates the lowest score in CSQA2.0 dev task?": [
+        "2201.05320",
+        "2203.11171",
+        "2212.13894",
+        "2205.09712",
+        "2106.05346",
+        "2110.08387",
+        "2205.05131",
+        "2204.02311",
+        "2203.02155"
+    ],
+    "What is the dataset with 3,747,569 instances?": [
+        "2212.09233",
+        "2011.07832",
+        "2106.00130",
+        "2104.05938",
+        "1808.08858",
+        "2012.04443",
+        "2010.12694",
+        "2010.06792"
+    ],
+    "What is the dataset with the most number of instances?": [
+        "2212.09233",
+        "2011.07832",
+        "2106.00130",
+        "2104.05938",
+        "2010.12694"
+    ],
+    "What is the dataset with the most number of Queries|Aspects in OABS category?": [
+        "2212.09233",
+        "2011.07832",
+        "2110.08296",
+        "2109.03171",
+        "2106.00130",
+        "2104.05938",
+        "2010.06792",
+        "2012.04443"
+    ],
+    "What is the dataset with the most number of Queries|Aspects in ABS category?": [
+        "2212.09233",
+        "2011.07832",
+        "2110.08296",
+        "2109.03171",
+        "2106.00130",
+        "2104.05938",
+        "2010.06792"
+    ],
+    "What is the dataset with the most number of instances in ABS category?": [
+        "2212.09233",
+        "2011.07832",
+        "2109.03171",
+        "2110.08296",
+        "2106.00130",
+        "2010.06792"
+    ],
+    "What is the method shows FLAN-T5 score of 52.4% using SGE in 24 domains?": [
+        "2205.12648",
+        "2302.08672",
+        "2302.09173",
+        "2209.06664",
+        "2203.15034",
+        "2112.03719",
+        "2111.14592",
+        "2109.07263",
+        "2010.01447",
+        "2006.06814"
+    ],
+    "What is the method has higher score than No Graph but lower score than TOD-Flow using GPT-turbo with SGD in 24 domains?": [
+        "2209.06664",
+        "2205.12648",
+        "2203.15034",
+        "2112.03719",
+        "2111.14592",
+        "2109.07263",
+        "2010.01447",
+        "2006.06814",
+        "2004.06871"
+    ],
+    "What is the method shown in the figure in the penultimate row?": [
+        "2010.01447",
+        "2209.06664",
+        "2111.14592",
+        "2302.08672",
+        "2302.09173",
+        "2205.12648",
+        "2203.15034",
+        "2112.03719",
+        "2109.07263",
+        "2006.06814"
+    ],
+    "What is the model shows 12.79% TP?": [
+        "2207.09666",
+        "2301.12597",
+        "2304.08485",
+        "2303.03378",
+        "2211.09800",
+        "2210.04492",
+        "2206.07699",
+        "2206.07173",
+        "2205.14100",
+        "2205.01068"
+    ],
+    "What is the model shows 84.70% WInToRe?": [
+        "2304.08485"
+    ],
+    "Which models shows higher TP score than GIT but lower TP score than LLaVA?": [
+        "2207.09666"
+    ],
+    "What is the method demonstrated in the lavendar solid line?": [
+        "2207.09666"
+    ],
+    "Which method in the figure demonstrates the highest Toxicity Probability Score when number of samples equal to 1M?": [
+        "2301.12597",
+        "2210.04492",
+        "2203.09509",
+        "2202.04173"
+    ],
+    "What is the model in the table has 12M updated parameters?": [
+        "2212.00959"
+    ],
+    "Which method gets the highest Hits@1 score in MQA-1H dataset?": [
+        "2212.00959",
+        "2305.09645",
+        "2202.13296",
+        "2201.05966",
+        "2104.07302",
+        "2104.06378",
+        "2101.03737",
+        "2012.09699",
+        "2007.03875"
+    ],
+    "Which method has the most number of updated parameters?": [
+        "2202.13296",
+        "2012.09699",
+        "2212.00959",
+        "2201.05966",
+        "2104.06378",
+        "2101.03737",
+        "2007.03875",
+        "2305.09645"
+    ],
+    "Which method shows 64.1 F1 score in WebQSP dataset?": [
+        "2203.02155",
+        "2305.09645",
+        "2212.00959",
+        "2202.13296",
+        "2201.05966",
+        "2104.07302",
+        "2104.06378",
+        "2012.09699",
+        "2005.14165"
+    ],
+    "Which method shown in the table is below TransferNet but above UniKGQA?": [
+        "2104.07302",
+        "2212.00959",
+        "2202.13296",
+        "2104.06378",
+        "2101.03737",
+        "2012.09699",
+        "2007.03875",
+        "1911.06136",
+        "1904.09537"
+    ],
+    "Which method in the figure is demonstrated by the orange line?": [
+        "2212.00959",
+        "2202.13296",
+        "2104.06378",
+        "2101.03737",
+        "2012.09699",
+        "2007.03875",
+        "2005.14165"
+    ],
+    "Which method in the figure is demonstrated by the 'x' (cross) marker?": [
+        "2212.00959"
+    ],
+    "Which method has lower Hit@1 score than ReasoningLM but higher Hit@1 score than NSM as the number of fine-tuning samples increases?": [
+        "2212.00959",
+        "2202.13296",
+        "2201.05966",
+        "2104.06378",
+        "2101.03737",
+        "2012.09699",
+        "2007.03875",
+        "2005.14165",
+        "1911.06136"
+    ],
+    "Which method has Hit@1 score range from 40% to 55% as the number of fine-tuning samples increases?": [
+        "2212.00959",
+        "2202.13296",
+        "2104.07302",
+        "2104.06378",
+        "2101.03737",
+        "2012.09699",
+        "2007.03875"
+    ],
+    "Which method has the least number of dialogues from the table?": [
+        "2305.14233",
+        "2307.16039",
+        "2304.01196",
+        "2212.10465"
+    ],
+    "Which method has the least number of turns from the table?": [
+        "2305.14233",
+        "2307.16039",
+        "2304.01196",
+        "2212.10560",
+        "2212.10465"
+    ],
+    "Which method has the longest question average length?": [
+        "2305.14233",
+        "2307.16039",
+        "2304.01196",
+        "2212.10560",
+        "2212.10465"
+    ],
+    "What method demonstrates 83.71 average answer length from the table?": [
+        "2305.14233",
+        "2304.01196",
+        "2307.16039",
+        "2212.10465"
+    ],
+    "What is the method demonstrates score of 22.4 in GSM8K dataset?": [
+        "2301.12726",
+        "2212.00193",
+        "2212.08410",
+        "2212.10071",
+        "2210.11610",
+        "2302.13971"
+    ],
+    "What is the method used with a GPT backbone and 7B parameters?": [
+        "2212.00193",
+        "2212.08410",
+        "2301.12726",
+        "2302.13971"
+    ],
+    "What is the method shown in the table above method proposed by Magister et al but below UL2 method?": [
+        "2212.00193",
+        "2301.12726",
+        "2212.08410",
+        "2212.10071",
+        "2305.10601",
+        "2302.13971",
+        "2306.02707",
+        "2210.11610",
+        "2210.11416"
+    ],
+    "What is the method shown on the leftmost bar in the figure?": [
+        "1610.02136",
+        "1706.02690",
+        "2010.03759",
+        "2305.16966",
+        "2106.00948",
+        "2301.12715",
+        "2210.12767",
+        "2210.07242",
+        "2109.06827",
+        "2203.04450"
+    ],
+    "What is the method that demonstrates the highest score in 'w/o p_out' setting?": [
+        "2305.16966",
+        "2301.12715",
+        "2210.12767",
+        "2210.07242",
+        "2204.06507",
+        "2203.04450",
+        "2010.03759",
+        "1706.02690"
+    ],
+    "Which benchmark is represented using the triangle marker from the figure?": [
+        "2210.09261",
+        "2109.06827",
+        "2201.11903",
+        "2210.00720",
+        "2110.14168",
+        "2210.09461",
+        "2210.03162",
+        "1906.08237",
+        "1904.09675"
+    ],
+    "Which benchmark is represented using the light green color from the figure?": [
+        "2210.09261",
+        "2110.14168",
+        "2201.11903",
+        "2305.17306",
+        "2305.14788",
+        "2304.14979",
+        "2304.12512",
+        "2304.12102",
+        "2304.12244"
+    ],
+    "Which benchmark has the higher 'Generation Token Length' than ShareGPT and GSM8k?": [
+        "2305.17306",
+        "2305.14788",
+        "2304.12512",
+        "2304.12102",
+        "2304.12244",
+        "2304.08467",
+        "2304.04487",
+        "2301.00774",
+        "2211.11300",
+        "2211.10438"
+    ],
+    "Which benchmark has the highest 'Generation Token Length' in the figure?": [
+        "2110.14168",
+        "2201.11903",
+        "2210.09261",
+        "2109.06827",
+        "2210.00720",
+        "2305.17306",
+        "2305.14788",
+        "2304.12512",
+        "2304.12102",
+        "2304.12244"
+    ],
+    "Which benchmark gets 'Generation Token Length' near 400 when 'Compression Ratio' is 1?": [
+        "2305.14788",
+        "2304.12512",
+        "2304.12102",
+        "2304.08467",
+        "2304.04487",
+        "2210.09261",
+        "2210.00720",
+        "2208.07339",
+        "2201.11903",
+        "2110.14168"
+    ],
+    "Which method has the highest MAE in CH-SIMS task?": [
+        "1707.07250",
+        "1806.00064",
+        "2109.00412",
+        "2005.03545",
+        "1906.00295",
+        "2102.04830"
+    ],
+    "Which method has the lowest score on 'Original Persona' column?": [
+        "2205.00872",
+        "2105.09050",
+        "2208.09601",
+        "2112.08619",
+        "2204.10825",
+        "1908.05859",
+        "2004.14550",
+        "1801.07243"
+    ],
+    "Which method is shown in the third row of the table?": [
+        "2210.09551",
+        "2210.02889",
+        "2204.13362",
+        "2202.13257",
+        "2203.13299",
+        "2306.16649",
+        "2108.01850",
+        "2105.03023",
+        "2104.08691",
+        "2104.04039"
+    ],
+    "Which method gets score of 70.1 in 'Revised Persona' column?": [
+        "2205.00872",
+        "2105.09050",
+        "2208.09601",
+        "2112.08619",
+        "2004.14550",
+        "2005.14165",
+        "2012.15723",
+        "2009.04703"
+    ],
+    "Which model demonstrates the highest score in 'T2' column?": [
+        "2210.04513",
+        "2210.04497",
+        "2209.00243",
+        "2203.02721",
+        "1903.02588",
+        "2201.11903",
+        "1706.08840"
+    ],
+    "Which model demonstrates the highest score in 'T3' column?": [
+        "2210.04513",
+        "2209.00243",
+        "2210.04497",
+        "2210.06726",
+        "1903.02588",
+        "1810.10147",
+        "1706.08840"
+    ],
+    "Which model is shown in the penultimate row in the table?": [
+        "2210.04513",
+        "2209.00243",
+        "2210.04497",
+        "1903.02588",
+        "2203.02721"
+    ],
+    "Which model gets score higher than ACA but lower than RationalCL in 'T5' column?": [
+        "2210.04513",
+        "2209.00243"
+    ],
+    "Which model gets score of 84.2 in 'T10' column?": [
+        "2210.04513",
+        "2209.00243",
+        "2210.04497",
+        "2203.02721",
+        "1903.02588",
+        "1810.10147"
+    ],
+    "Which method is shown in the first row of the table?": [
+        "2209.07692",
+        "2109.00122",
+        "2210.03493",
+        "2105.07624",
+        "2211.12588",
+        "2210.10105",
+        "2210.08249",
+        "2212.07249",
+        "2302.08468"
+    ],
+    "Which method demonstrates the lowest EA score in FinQA task?": [
+        "2212.07249",
+        "2210.10105",
+        "2210.08249",
+        "2210.03493",
+        "2210.03849",
+        "2211.12588",
+        "2211.10435",
+        "2211.04486",
+        "2210.10105"
+    ],
+    "Which method demonstrates F1 score with mean 58.86 in TAT-QA task?": [
+        "2212.07249",
+        "2211.12588",
+        "2211.10435",
+        "2210.10105",
+        "2210.08249",
+        "2210.03493",
+        "2210.03849",
+        "2209.14610",
+        "2302.05698"
+    ],
+    "Which method gets 67.07 EA score in FinQA task": [
+        "2212.07249",
+        "2210.10105",
+        "2211.12588",
+        "2211.10435",
+        "2210.03493",
+        "2210.03849",
+        "2209.14610",
+        "2209.07692",
+        "2302.05698"
+    ],
+    "Which method gets higher EA score than Fixed set but lower EA score than Diverse KATE in FinQA task?": [
+        "2109.00122",
+        "2212.07249",
+        "2210.10105",
+        "2210.08249",
+        "2210.03493",
+        "2210.03849",
+        "2211.12588",
+        "2211.10435",
+        "2206.01347"
+    ],
+    "Which method is shown in the fifth row in the table?": [
+        "2109.00122",
+        "2105.07624",
+        "2210.03493",
+        "2209.14610",
+        "2210.10105",
+        "2210.08249",
+        "2209.07692",
+        "2302.05698",
+        "2211.04486",
+        "2210.03849"
+    ],
+    "What is the first method shown in Implicit --> Continual Learning --> Continual Pre-training --> Replay-based category?": [
+        "2203.05115",
+        "2309.16535",
+        "2309.03118",
+        "2308.13198",
+        "2308.09954",
+        "2308.08742",
+        "2308.04014",
+        "2307.09218",
+        "2306.09306",
+        "2306.08302"
+    ],
+    "What is the first method shown in Implicit --> Continual Learning --> Continual Pre-training --> Architectural-based category?": [
+        "2308.08742",
+        "2308.04014",
+        "2307.12976",
+        "2307.09218",
+        "2306.09306",
+        "2306.08302",
+        "2305.18582",
+        "2305.18153",
+        "2305.17553",
+        "2305.17331"
+    ],
+    "What is the first method shown in Implicit --> Continual Learning --> Continual Knowledge Editing?": [
+        "2307.12976",
+        "2308.04014",
+        "2307.09218",
+        "2305.18582",
+        "2305.18153",
+        "2308.08742",
+        "2309.16535",
+        "2308.09954",
+        "2308.13198",
+        "2309.03118"
+    ],
+    "What is the first method shown in Explicit --> Retrieval-enhanced --> Single-Stage?": [
+        "2309.03118",
+        "2308.08742",
+        "2307.09218",
+        "2306.08302",
+        "2305.14795",
+        "2305.15294",
+        "2305.14292",
+        "2305.16896",
+        "2305.17331",
+        "2203.05115"
+    ],
+    "What is the first method shown in Explicit --> Retrieval-enhanced --> Multi-Stage?": [
+        "2305.13246",
+        "2301.09785",
+        "2210.07229",
+        "2004.00345",
+        "1810.04805"
+    ],
+    "What is the first method shown in Explicit --> Internet-enhanced": [
+        "2305.15294",
+        "2306.08302",
+        "2306.09306",
+        "2307.09218",
+        "2308.08742",
+        "2203.05115",
+        "2309.16535",
+        "2309.03118",
+        "2308.13198",
+        "2308.09954"
+    ],
+    "What is the last method shown in Explicit --> Retrieval-enhanced --> Multi-Stage?": [
+        "2304.03728",
+        "2004.00345"
+    ],
+    "What is the last method shown in Explicit --> Memory-enhanced --> Feedback or Corrections?": [
+        "2206.04624",
+        "2204.14211",
+        "2207.13332",
+        "2004.00345"
+    ],
+    "What is the last method shown in Implicit --> Continual Learning --> Continual Knowledge Editing?": [
+        "2308.04014",
+        "2307.12976",
+        "2305.18582",
+        "2307.09218",
+        "2308.08742",
+        "2308.09954",
+        "2308.13198",
+        "2309.03118",
+        "2309.16535",
+        "2203.05115"
+    ],
+    "What is the dataset shown in the second row of the table?": [
+        "2109.08877",
+        "2010.04125",
+        "1905.11553",
+        "2002.01196",
+        "1911.03842",
+        "2012.08383",
+        "1805.08352"
+    ],
+    "What is the dataset has the most number of dialogues?": [
+        "2109.08877",
+        "2010.04125",
+        "1905.11553",
+        "2002.01196",
+        "2012.08383",
+        "1911.03842",
+        "1911.00536",
+        "1909.03087",
+        "1909.00876",
+        "1906.05572"
+    ],
+    "Which dataset is in Movies domain only and has PF field?": [
+        "2210.12687",
+        "2010.04125",
+        "2109.08877",
+        "2106.09685",
+        "2105.13710",
+        "2305.05290"
+    ],
+    "Which method has the highest score in WQ R task?": [
+        "1910.10683",
+        "2004.06015",
+        "2205.10625",
+        "2302.12246",
+        "2305.04091"
+    ],
+    "Which method is in the last row of teh Full Training category?": [
+        "2302.08081",
+        "2305.04091",
+        "2305.04676",
+        "2302.12246",
+        "2004.06015",
+        "2109.05014",
+        "2004.05439"
+    ],
+    "Which method gets 28.62 score in WQ B task?": [
+        "2109.05014",
+        "2004.05439",
+        "1803.06643",
+        "1801.04726",
+        "1705.00106",
+        "1603.06807",
+        "1905.10033"
+    ],
+    "Which method does not show a result for WQ M task?": [],
+    "Which model has the highest Recall@7 score in CamRest task?": [
+        "2210.07564",
+        "2305.10149",
+        "2209.08708",
+        "2204.09149",
+        "2201.05966",
+        "2109.07396",
+        "2110.07367",
+        "2106.05346"
+    ],
+    "Which model has the 92.97 score in Recall@7 for MWOZ task?": [
+        "2210.07564",
+        "2305.10149",
+        "2209.08708",
+        "2204.09149",
+        "2201.05966",
+        "2109.07396",
+        "2005.00796"
+    ],
+    "What is the method shown in the table demonstrates the highest BLEU-1 score for Test Seen task?": [
+        "2205.14690",
+        "2202.06417",
+        "2205.02517",
+        "2106.07207",
+        "2304.04836",
+        "2301.02401",
+        "2210.12459",
+        "2210.11715",
+        "2210.02223"
+    ],
+    "What is the method shown in the table gets 24.466 PPL for Test Seen task?": [
+        "1811.01241",
+        "1908.04319",
+        "1904.09751",
+        "1910.10683",
+        "1801.07243"
+    ],
+    "What is the method shown in the fifth row of the table?": [
+        "2205.14690",
+        "2202.06417",
+        "2205.02795",
+        "2205.02517",
+        "1610.02424",
+        "2003.11963"
+    ],
+    "What is the method shows 79.44 accuracy in CJO22 task?": [
+        "1810.04805",
+        "2005.14165",
+        "2004.12158"
+    ],
+    "What is the method shows 82.82 accuracy in CAIL2018 task?": [
+        "2004.12158",
+        "2005.14165",
+        "2303.01903",
+        "2110.00976",
+        "1810.04805"
+    ],
+    "What is the method shown below the row of R-Former but above the row of NeurJudge?": [
+        "2303.01903",
+        "2004.02557"
+    ],
+    "What is the method represented by the lavender color?": [
+        "2302.14003",
+        "2212.10938",
+        "2205.13636",
+        "2205.07276",
+        "2204.11586",
+        "2009.11462",
+        "2009.06367",
+        "2004.10964",
+        "2105.03023",
+        "2104.05218"
+    ],
+    "What is the method on the right most coordinates of the figure?": [
+        "2205.13636",
+        "2009.11462",
+        "2009.06367",
+        "2105.03023",
+        "2304.12397",
+        "2302.14003",
+        "2212.10938",
+        "2205.07276",
+        "2204.11586",
+        "2203.02155"
+    ],
+    "What is the method having 60 perplexity?": [
+        "2205.13636",
+        "2302.14003",
+        "2212.10938",
+        "2205.07276",
+        "2204.11586",
+        "2203.15556",
+        "2203.02155",
+        "2112.11446",
+        "2109.09707",
+        "2105.03023"
+    ],
+    "What is the method having the highest perplexity?": [
+        "2009.06367",
+        "2009.11462",
+        "2205.07276",
+        "2105.03023",
+        "2009.06367",
+        "2004.10964",
+        "2104.05218",
+        "2009.11462",
+        "2211.05100",
+        "2205.13636"
+    ],
+    "What is method in the figure represented by teh green color?": [
+        "2302.14003",
+        "2212.10938",
+        "2205.13636",
+        "2205.07276",
+        "2204.11586",
+        "2203.02155",
+        "2105.03023",
+        "2104.05218",
+        "2009.11462",
+        "2009.06367"
+    ],
+    "What is method in the figure has around 30 perplexity and 0.2 average max toxicity?": [
+        "2302.14003",
+        "2212.10938",
+        "2205.07276",
+        "2204.11586",
+        "2205.13636",
+        "2009.11462",
+        "2009.06367",
+        "2105.03023",
+        "2304.12397"
+    ],
+    "What is method demonstrated in the figure with brown color label?": [],
+    "What is method with around 30 perplexity and the highest average max toxicity?": [
+        "2212.10938",
+        "2302.14003",
+        "2205.13636",
+        "2205.07276",
+        "2009.11462",
+        "2009.06367",
+        "2105.03023",
+        "2211.05100",
+        "2204.11586",
+        "2304.12397"
+    ],
+    "What is method with around 30 perplexity and around 0.4 average max toxicity?": [
+        "2302.14003",
+        "2212.10938",
+        "2205.07276",
+        "2205.13636",
+        "2204.11586",
+        "2203.02155",
+        "2105.03023",
+        "2104.05218",
+        "2009.11462",
+        "2009.06367"
+    ],
+    "What is method with average max toxicity more than 0.3 but with circle label?": [
+        "2204.11586",
+        "2205.13636",
+        "2009.11462"
+    ],
+    "What is the method having 11.0 rounds to Completion?": [
+        "2007.15703",
+        "2307.01158",
+        "2306.00924",
+        "2304.11490",
+        "2304.03442",
+        "2303.13988",
+        "2210.13312",
+        "2302.01560",
+        "2302.05128"
+    ],
+    "What is the method having lower `rounds to completion` than GPT-4 + Belief but higher `rounds to completion` than CBS planner?": [
+        "2304.11477",
+        "2306.00924",
+        "2307.01158",
+        "2304.11490",
+        "2304.03442",
+        "2303.13988",
+        "2303.12712",
+        "2302.08399",
+        "2302.05128",
+        "2302.01560"
+    ],
+    "What is the method showing in the fourth row of the table?": [
+        "2304.11490",
+        "2306.00924",
+        "2307.01158",
+        "2304.03442",
+        "2303.12712",
+        "2304.11477",
+        "2305.16291",
+        "2210.13312"
+    ],
+    "What is the method having 41.3 F1 score?": [
+        "2210.06155",
+        "2208.11168",
+        "2204.08387",
+        "2203.06947",
+        "2203.02378",
+        "2202.13669",
+        "2112.10070",
+        "2108.04539",
+        "2108.02923",
+        "2104.08836"
+    ],
+    "What is the method in the second row of the table?": [
+        "2104.08836",
+        "2012.14740",
+        "1912.13318",
+        "1905.13538",
+        "2203.06947",
+        "2204.08387",
+        "2004.13454",
+        "2112.10070",
+        "2105.11210"
+    ],
+    "What is the method having lower F1 score than Doc2Graph and higher F1 score than GNN+MLP?": [
+        "2305.18721",
+        "2210.06155",
+        "2208.11168",
+        "2204.08387",
+        "2203.06947",
+        "2203.02378",
+        "2202.13669",
+        "2112.10070",
+        "2110.09915",
+        "2108.11591"
+    ],
+    "What is the method having 53.36 F1 score?": [
+        "2208.11168",
+        "2204.08387",
+        "2210.06155",
+        "2203.06947",
+        "2104.08836",
+        "1912.13318",
+        "2012.14740",
+        "2203.02378",
+        "2202.13669",
+        "2108.02923"
+    ],
+    "What is the method having lower F1 score than LayoutXLM and high F1 score than SPADE?": [
+        "2005.00642",
+        "2104.08836",
+        "2208.11168",
+        "2204.08387",
+        "2210.06155",
+        "2012.14740",
+        "1912.13318",
+        "2108.04539",
+        "2105.11210"
+    ],
+    "What is the method having 54.84 F1 score?": [
+        "2204.08387",
+        "2104.08836",
+        "1912.13318",
+        "2012.14740"
+    ],
+    "What is the method having lower F1 score than SERA and higher F1 score than Doc2Graph?": [
+        "2104.08836",
+        "2210.06155",
+        "2208.11168",
+        "2204.08387",
+        "2305.18721",
+        "2203.06947",
+        "2202.13669",
+        "2012.14740",
+        "1912.13318"
+    ],
+    "What is the method having 65.96 F1 score?": [
+        "2112.10070"
+    ],
+    "What is the method having lower F1 score than BROS and higher F1 score than LayoutXLM?": [
+        "2108.04539",
+        "2104.08836",
+        "2210.06155",
+        "2204.08387",
+        "2203.06947",
+        "2306.03287",
+        "2305.18721",
+        "2211.00684",
+        "2208.03054",
+        "2206.03001"
+    ],
+    "What is the method having 75 F1 score?": [
+        "2012.14740",
+        "1912.13318",
+        "2104.08836",
+        "2306.03287",
+        "2305.18721",
+        "2211.00684",
+        "2210.06155",
+        "2208.03054",
+        "2206.03001",
+        "2204.08387"
+    ],
+    "What is the method having lower F1 score than TPP and higher F1 score than BROS?": [
+        "2108.04539",
+        "2012.14740",
+        "1912.13318",
+        "2104.08836",
+        "2105.11210",
+        "2112.10070",
+        "2208.03054"
+    ],
+    "What is the dataset shown in the last row of the table?": [
+        "2301.10186",
+        "2206.00524",
+        "2109.09701",
+        "2003.00744",
+        "2209.07562",
+        "2205.06457",
+        "2301.10439"
+    ],
+    "What is the dataset with task `Hate Speech Spans Detection (HSSD)`?": [
+        "2301.10186"
+    ],
+    "What is the dataset having training set size 8,844?": [
+        "2301.10186",
+        "2206.00524",
+        "2103.11528",
+        "2109.09701",
+        "2003.00744",
+        "2205.06457",
+        "2301.10439",
+        "2209.10482",
+        "2101.01476",
+        "2006.15994"
+    ],
+    "What is the dataset having 1,106 test set size?": [
+        "2301.10186",
+        "2103.11528",
+        "2206.00524"
+    ],
+    "What is the dataset having more dev set samples than UIT-VSMEC but less dev set samples than ViSpamReviews?": [
+        "2301.10186",
+        "2209.10482",
+        "2009.11005",
+        "2109.09701",
+        "2006.15994",
+        "2205.06457",
+        "2003.00744",
+        "2103.11528",
+        "2101.01476"
+    ],
+    "What is the model having mac-F1 score of 27.34?": [
+        "2010.02559",
+        "2310.11878",
+        "2302.00609",
+        "2302.00768",
+        "2210.13836",
+        "2210.05529",
+        "2111.07997",
+        "2104.08671",
+        "2012.10301",
+        "2004.05150"
+    ],
+    "What is the model having lower mac-F1 score than Longformer but higher mac-F1 score than CaselawBERT?": [
+        "2010.02559",
+        "2004.05150",
+        "1810.04805",
+        "2210.05529",
+        "2104.08671"
+    ],
+    "What is the model shown in the fourth row of the table?": [
+        "2010.02559",
+        "2310.11878",
+        "2302.00609",
+        "2302.00768",
+        "2210.13836",
+        "2210.05529",
+        "2111.07997",
+        "2104.08671",
+        "2012.10301",
+        "2004.05150"
+    ],
+    "What is the dataset having 1250 val set from the table?": [
+        "2104.13346",
+        "2004.04228",
+        "2103.12693",
+        "1905.13322",
+        "1912.08777",
+        "2106.09449",
+        "2108.13134"
+    ],
+    "What is the dataset having less val set samples than GoGenSum but more samples than FacCC?": [
+        "2304.02554",
+        "2212.01611",
+        "2205.06009",
+        "2204.10757",
+        "2005.00661",
+        "2305.11206",
+        "2301.13848",
+        "2302.13971",
+        "2303.04048"
+    ],
+    "What is the dataset in the last row of `Inconsistency Detection` category?": [
+        "2212.01611",
+        "2205.06009",
+        "2111.09525",
+        "2108.13134",
+        "2104.13346",
+        "1910.12840",
+        "2005.00661",
+        "2305.11206",
+        "2304.02554"
+    ],
+    "Which method has the second highest Avg score on SuperGLUE task?": [
+        "1902.00751",
+        "1809.02922",
+        "1704.05426",
+        "1804.07461",
+        "1905.00537",
+        "1905.10044",
+        "1901.11504",
+        "2305.17682",
+        "2305.16742",
+        "2305.04573"
+    ],
+    "Which method has CoLA score equal to 55.9 on GLUE task?": [
+        "1902.00751",
+        "1901.11504",
+        "2305.16742",
+        "2305.04573",
+        "2303.02861",
+        "2205.11961",
+        "2203.08304",
+        "2203.00759",
+        "2111.10952",
+        "2110.07904"
+    ],
+    "Which method shown in the table is right above PHA method?": [
+        "2305.04573",
+        "2303.02861",
+        "2205.11961",
+        "2203.08304",
+        "2203.00759",
+        "2111.10952",
+        "2110.07904",
+        "2110.04366",
+        "2109.01652",
+        "2106.04489"
+    ],
+    "Which method has 638K tunable parameters?": [
+        "2303.02861",
+        "2305.16742",
+        "2305.17682",
+        "2305.04573",
+        "2205.11961",
+        "2203.00759",
+        "2110.04366",
+        "2106.04647",
+        "2104.08691",
+        "2203.08304"
+    ],
+    "Which method has the second highest Avg score on GLUE task?": [
+        "1902.00751",
+        "1901.11504",
+        "1804.07461",
+        "1809.02922",
+        "1910.10683",
+        "1808.09121",
+        "1905.10044",
+        "1708.00055"
+    ],
+    "What is the method having score of 73.6 in CB dataset with 4-shot prompting?": [
+        "2303.02861",
+        "2205.11961",
+        "2305.16742",
+        "2305.17682",
+        "2305.04573",
+        "2203.09770",
+        "2203.08304",
+        "2203.00759",
+        "2111.10952",
+        "2110.07904"
+    ],
+    "What is the method having score of 78.6 in SciTail dataset with 16-shot prompting?": [
+        "1901.11504",
+        "2303.02861",
+        "2205.11961",
+        "2203.08304",
+        "2203.00759",
+        "2111.10952",
+        "2110.07904",
+        "2110.04366",
+        "2109.01652",
+        "2106.04489"
+    ],
+    "What is the method having score of 71.4 in CB dataset with 4-shot prompting?": [
+        "2303.02861",
+        "2110.07904",
+        "2205.11961",
+        "2305.16742",
+        "2305.17682",
+        "2305.04573",
+        "2203.08304",
+        "2203.00759",
+        "2106.04647",
+        "2104.08691"
+    ],
+    "What is the method having score of 61.2 in BoolQ dataset with 32-shot prompting?": [
+        "1905.10044",
+        "1902.00751",
+        "1809.02922",
+        "1901.11504",
+        "1804.07461",
+        "1808.09121"
+    ],
+    "Which model gets 73.1 F1 score in en_city category?": [
+        "2107.09278",
+        "2110.07160",
+        "2004.05150",
+        "2004.14535",
+        "2001.00891",
+        "1810.04805",
+        "2007.14062"
+    ],
+    "Which model gets 24.8 P_k score in en_disease category?": [
+        "2107.09278",
+        "2110.07160",
+        "2209.13759",
+        "2110.07850",
+        "2305.08391",
+        "2106.12978",
+        "2106.06719",
+        "2105.11741",
+        "2104.08821"
+    ],
+    "Which model gets the best P_k score on the upper part of the table??": [
+        "2110.07160",
+        "2209.13759",
+        "2110.07850",
+        "2107.09278",
+        "2106.12978",
+        "2106.06719",
+        "2004.05150",
+        "2004.14535",
+        "2001.00891"
+    ],
+    "Which model gets score of 91.5 in NER task?": [
+        "2306.13467",
+        "2110.15534",
+        "2110.05419",
+        "2110.07855",
+        "2108.00104",
+        "2104.14674",
+        "2010.10669"
+    ],
+    "Which model gets score of 81.5 in SRL task?": [
+        "2203.07836",
+        "2110.15534",
+        "2104.14674",
+        "2010.10669",
+        "2010.01771",
+        "2004.05572",
+        "1910.13461"
+    ],
+    "Which transformer-based method gets the highest MRR score in FB15kET datast?": [
+        "2210.11151",
+        "2007.10873",
+        "2208.09828",
+        "2109.07990",
+        "2008.12813"
+    ],
+    "Which method gets MRR score equal to 0.717 in FB15kET datast?": [
+        "2007.10873",
+        "2210.11151",
+        "2208.09828",
+        "2008.12813",
+        "2109.07990"
+    ],
+    "Which method gets MRR score equal to 0.679 in FB15kET datast?": [
+        "2007.10873",
+        "2210.11151",
+        "2208.09828",
+        "2109.07990"
+    ],
+    "Which method gets Hits@1 score equal to 0.281 in YAGO43kET datast?": [
+        "2007.10873",
+        "2109.07990",
+        "2210.11151"
+    ],
+    "Which method got 69.56 score in Forgotten Realms category?": [
+        "2207.05280",
+        "2109.05716",
+        "2010.00904",
+        "1906.07348",
+        "1905.07189"
+    ],
+    "Which method got a score high than 69.0 but lower than 70.0 in Forgotten Realms category?": [
+        "2207.05280",
+        "1906.07348",
+        "2107.05720",
+        "1905.07189"
+    ],
+    "Which method is on the last row of the upper half of the table?": [
+        "1906.07348",
+        "2107.05720",
+        "2010.00904",
+        "2109.05716",
+        "1905.07189",
+        "2204.12755",
+        "2207.05280"
+    ],
+    "Which method gets 18.4 accuracy in GSM8K dataset?": [
+        "2212.08410",
+        "2212.00193",
+        "2210.11610",
+        "2110.14168"
+    ],
+    "Which method gets 63.8 accuracy in StrategyQA dataset?": [
+        "2101.02235",
+        "2212.00193",
+        "2212.08410",
+        "2212.10071",
+        "2210.11610",
+        "2303.17651",
+        "2302.13971",
+        "2301.12726",
+        "2212.10560",
+        "2203.11171"
+    ],
+    "Which method has three empty entries in mathematical reasoning and commonsense reasoning tasks?": [
+        "2303.17651",
+        "2212.08410",
+        "2212.00193",
+        "2210.11610",
+        "2212.10071",
+        "2212.10560",
+        "2301.12726",
+        "2303.11366",
+        "2302.13971",
+        "2305.15717"
+    ],
+    "Which method in the table is listed right above One-Round Distillation and right below Specializing?": [
+        "2305.09651",
+        "2303.17651",
+        "2303.11366",
+        "2301.12726",
+        "2212.10071",
+        "2212.00193",
+        "2210.11610",
+        "2212.08410"
+    ],
+    "What is the model represented with a blue line in the figure?": [
+        "2212.12131",
+        "2205.01068",
+        "2109.14989",
+        "1710.03957"
+    ],
+    "What is the model represneted with a dot marker?": [
+        "2212.12131",
+        "1911.00536",
+        "2205.01068"
+    ],
+    "Which model in the figure has the highest Spearman's Correlation?": [
+        "2212.12131",
+        "2305.12084",
+        "2104.08315",
+        "2304.04758",
+        "2305.11707",
+        "2210.12828",
+        "2210.12187"
+    ],
+    "Which model in the figure exceed 0.60 Spearman's Correlation as the alternative set size to 100 in Mean cosine setting?": [
+        "2212.12131",
+        "2006.01912",
+        "1911.00536",
+        "1908.10084",
+        "2104.08315"
+    ],
+    "Which method gets the highest Precision score in Token (I-topo) category?": [
+        "2209.08286",
+        "2303.13675",
+        "2210.12213",
+        "2207.01683",
+        "2011.04305",
+        "2005.01634",
+        "2010.01057"
+    ],
+    "Which method gets F1 score 87.63 in Token (I-topo) category?": [
+        "1810.04805",
+        "1901.08746",
+        "2104.08821"
+    ],
+    "What is the model that demonstrates the highest Oracle score?": [
+        "2203.15108",
+        "2005.11401",
+        "2109.03423",
+        "2107.00152",
+        "2105.06597",
+        "2104.07567",
+        "2102.12128"
+    ],
+    "Which model gets 16.5 Top-1 score in SQuAD dataset?": [
+        "2203.15108",
+        "2109.07954",
+        "2107.00152",
+        "2102.12128",
+        "2010.01475"
+    ],
+    "Which model gets the lowest P-BLEU? score in uAD dataset?": [
+        "2203.03463",
+        "2112.08342",
+        "2109.12595",
+        "2109.07954",
+        "2109.05179",
+        "2109.03423",
+        "2107.00152",
+        "2105.06597",
+        "2104.07567"
+    ],
+    "Which model demonstrates the lowest zh-en score?": [
+        "2105.14913",
+        "2210.12802",
+        "2105.13072",
+        "1907.03468"
+    ],
+    "Which model has 53.87 de-en score?": [
+        "2105.14913",
+        "2210.12802",
+        "2105.13072",
+        "1907.03468"
+    ],
+    "Which method is in the second row of the table?": [
+        "2305.12802",
+        "2205.03011",
+        "1807.04905",
+        "2110.06376",
+        "2210.02771",
+        "2305.09785",
+        "2105.10195",
+        "2201.05955",
+        "2112.01037",
+        "2111.09543"
+    ],
+    "Which method is in the first block while having 50.4 F1 score?": [
+        "2210.02771",
+        "2305.09785",
+        "2305.12802",
+        "2205.03011",
+        "2110.06376",
+        "2105.10195",
+        "2111.09543",
+        "2201.05955",
+        "2112.01037",
+        "2104.08027"
+    ],
+    "Which method is demonstrated by the purple line?": [
+        "1909.12406",
+        "1906.05218"
+    ],
+    "Which method is demonstrated by square marker?": [
+        "2005.08595",
+        "2004.13169",
+        "1909.12406",
+        "1906.05218",
+        "1802.08665",
+        "1610.00388"
+    ],
+    "Which method shows the lowest BLEU score in De-En task over Average Lagging from 5 to 11?": [
+        "2005.08595",
+        "2004.13169",
+        "2004.01655",
+        "1711.02281",
+        "1811.04719",
+        "1704.00784",
+        "1606.07947"
+    ],
+    "Which method shows 95.20 accuracy in automatic evaluation?": [
+        "2210.09551",
+        "2202.06417",
+        "2202.13257",
+        "2105.03023",
+        "2204.00862",
+        "2203.13299"
+    ],
+    "Which method shows a higher accuracy than DExpert but lower than Air-Decoding?": [
+        "2105.03023",
+        "2104.05218",
+        "2101.00190",
+        "2203.13299",
+        "2009.11462",
+        "2009.06367",
+        "2006.03535",
+        "2104.04039"
+    ]
+}
