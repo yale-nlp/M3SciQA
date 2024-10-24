@@ -1,6 +1,7 @@
 # 🧑‍🔬 M3SciQA
 
-🏠[Home](https://) | 🤗[Data](https://huggingface.co/)
+<!-- 🏠[Home](https://) |  -->
+🤗[Data](https://huggingface.co/datasets/yale-nlp/M3SciQA)
 
 This repositary contains codes to evaluate models on M3SciQA from the paper [M3SciQA: A Multi-Modal Multi-Document Scientific Benchmark for Evaluating Foundation Models](https://)
 
